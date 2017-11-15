@@ -1,10 +1,10 @@
 # 可以放在桌面的一个文件夹里方便调用。
-# oommf
-## omf2txt.py  python3.x
+# 调用方法如下
+## python3 omf2txt.py  
   use tclsh oommf.tcl avf2ovf 
-## odt2txt.py  python3.x
-## plotomf.py  python2.x
+## python3 odt2txt.py
+## python2 plotomf.py  
   depend mayavi
-## txt2excel.py python3.x 
-## credir.py python3.x
-## nameadd.py python3.x
+## python3 txt2excel.py 
+## python3 credir.py 
+## python3.x nameadd.py 
