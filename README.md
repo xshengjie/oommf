@@ -5,6 +5,5 @@
 ## python3 odt2txt.py
 ## python2 plotomf.py  
   depend mayavi
-## python3 txt2excel.py 
 ## python3 credir.py 
 ## python3.x nameadd.py 
